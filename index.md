@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Timestamp Privacy Policy
 
 You can use the [editor on GitHub](https://github.com/Marcoc88/Timestamp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
